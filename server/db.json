@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Vue",
+      "description": "Vue mudah banget",
+      "date": "April 01, 2016",
+      "author": "arnold",
+      "category": "doing"
+    },
+    {
+      "id": 2,
+      "title": "Express",
+      "description": "Express mudah banget",
+      "date": "April 01, 2016",
+      "author": "eric",
+      "category": "done"
+    },
+    {
+      "id": 3,
+      "title": "Oauth",
+      "description": "Oauth mudah banget",
+      "date": "April 01, 2016",
+      "author": "raka",
+      "category": "todo"
+    },
+    {
+      "id": 4,
+      "title": "Vuex",
+      "description": "Vuex Component mudah banget",
+      "date": "April 01, 2016",
+      "author": "ahmad",
+      "category": "backlog"
+    },
+    {
+      "id": 5,
+      "title": "Socket",
+      "description": "Socket mudah banget",
+      "date": "April 01, 2016",
+      "author": "gilang",
+      "category": "todo"
+    },
+    {
+      "id": 6,
+      "title": "Middleware",
+      "description": "Middleware mudah banget",
+      "date": "April 01, 2016",
+      "author": "adit",
+      "category": "todo"
+    }
+  ]
+}
